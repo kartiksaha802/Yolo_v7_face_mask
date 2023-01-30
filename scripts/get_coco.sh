@@ -2,6 +2,7 @@
 # COCO 2017 dataset http://cocodataset.org
 # Download command: bash ./scripts/get_coco.sh
 
+
 # Download/unzip labels
 d='./' # unzip directory
 url=https://github.com/ultralytics/yolov5/releases/download/v1.0/
